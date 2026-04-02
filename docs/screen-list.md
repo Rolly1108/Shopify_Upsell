@@ -49,11 +49,17 @@
 - Provide a central place to manage all offers
 
 **Main content**
-- offer list/table
 - search
 - filters
-- offer status
-- placement type
+- offer list/table
+  -- offer name
+  -- offer status
+  -- page upsell
+  -- Used
+  -- Views
+  -- ATCs
+  -- CR
+  -- Revenue
 - actions: edit, duplicate, enable/disable
 - CTA: Create Offer
 
@@ -87,7 +93,8 @@
 
 **Main content**
 - offer name input
-- selected placement summary
+- offer type
+- schedule offer 
 - navigation to next step
 
 **Related flow**
@@ -137,6 +144,7 @@
 - recommended product summary
 - discount summary
 - actions:
+  - Peview
   - Save
   - Activate
 
@@ -249,6 +257,7 @@
 - Present one-click upsell after the initial purchase is completed
 
 **Main content**
+- countdown 15 min
 - upsell product offer
 - clear one-click action
 - Pay now CTA
